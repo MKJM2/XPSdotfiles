@@ -37,6 +37,8 @@ alert          = ${colors.color3}
 ;menu-1 = item 2;command
 ;menu-1-0 = sub-item 2.1;command
 ;menu-1-1 = sub-item 2.2;command
+
+; ----------------------------- B A R -------------------------------
 [bar/top]
 ;monitor                            = "eDP1"
 bottom                             = true
@@ -53,7 +55,7 @@ line-size                          = 1
 line-color                         = #f00
 border-size                        = 0
 border-color                       = #00000000
-padding-left                       = 0
+padding-left                       = 2
 padding-right                      = 2
 module-margin-left                 = 1
 module-margin-right                = 2
